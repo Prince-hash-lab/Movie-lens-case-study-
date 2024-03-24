@@ -3,7 +3,14 @@ The GroupLens Research Project is a research group in the Department of Computer
 # RATINGS FILE DESCRIPTION
 ================================================================================
 
-
+<table>
+  <tr>
+    <td>Distribution of users by Age Group</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/1.png" width=900 height=190></td>
+  </tr>
+ </table>
 
 All ratings are contained in the file "ratings.dat" and are in the
 following format:
