@@ -106,6 +106,7 @@ Tasks to Be Performed
 ->	Perform the Exploratory Data Analysis (EDA) for the users dataset
 	•	Visualize user age distribution
 	•	Visualize overall rating by users
+	•	Visualize overall rating by Gender
 	•	Find and visualize the user rating of the movie “Toy Story”
 	•	Find and visualize the viewership of the movie “Toy Story” by age group
 	•	Find and visualize the top 25 movies by viewership rating
