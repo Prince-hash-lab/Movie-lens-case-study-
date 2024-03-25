@@ -126,6 +126,67 @@ Tasks to Be Performed
 		o	age
 		o	occupation
 ->	Use rating as label
-->	Create train and test data set and perform the following:
-	•	Create a histogram for movie, age, and occupation
+<table>
+  <tr>
+    <td>Distribution of users by Age Group</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/1.png" width=500 height=420></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td>Overall Rating Count By Users</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/2.png" width=700 height=610></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>Distribution of users by Gender</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/3.png" width=500 height=450></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>User Rating of Movie Toy Story</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/4.png" width=650 height=450></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>Viewership Data of Toy Story Movie by Age</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/5.png" width=750 height=480></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>Top 25 Movies by Average Rating</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/6.png" width=650 height=450></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>Rating Data for User 2696</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/7.png" width=500 height=450></td>
+  </tr>
+ </table>
+
 
