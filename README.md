@@ -1,17 +1,7 @@
 # SUMMARY
 The GroupLens Research Project is a research group in the Department of Computer Science and Engineering in the University of Minnesota. The researchers of this group are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. Here, we ask you to perform the analysis using the Exploratory Data Analysis technique. In particular, we want you to apply the tools of machine learning to predict the survivors of the tragedy. 
-# RATINGS FILE DESCRIPTION
-================================================================================
-![Image Description](https://github.com/Prince-hash-lab/Movie-lens-case-study-/main/images/1.png)
 
-<table>
-  <tr>
-    <td>Distribution of users by Age Group</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/1.png" width=900 height=190></td>
-  </tr>
- </table>
+# RATINGS FILE DESCRIPTION
 
 All ratings are contained in the file "ratings.dat" and are in the
 following format:
@@ -25,7 +15,6 @@ UserID::MovieID::Rating::Timestamp
 - Each user has at least 20 ratings
 
 # USERS FILE DESCRIPTION
-================================================================================
 
 User information is in the file "users.dat" and is in the following
 format:
@@ -72,7 +61,6 @@ information are included in this data set.
 	* 20:  "writer"
 
 # MOVIES FILE DESCRIPTION
-================================================================================
 
 Movie information is in the file "movies.dat" and is in the following
 format:
@@ -106,26 +94,37 @@ year of release)
 entries and/or test entries
 - Movies are mostly entered by hand, so errors and inconsistencies may exist
 
-Tasks to Be Performed
-->	Data acquisition of the movielens dataset
-	•	users dataset
-	•	rating dataset
-	•	movies dataset
-->	Perform the Exploratory Data Analysis (EDA) for the users dataset
-	•	Visualize user age distribution
-	•	Visualize overall rating by users
-	•	Visualize overall rating by Gender
-	•	Find and visualize the user rating of the movie “Toy Story”
-	•	Find and visualize the viewership of the movie “Toy Story” by age group
-	•	Find and visualize the top 25 movies by viewership rating
-	•	Find the rating for a particular user of user id = 2696
-		o	Visualize the rating data by user of user id = 2696
-->	Perform machine learning on first 500 extracted records
-	•	Use the following features:
-		o	movie id
-		o	age
-		o	occupation
-->	Use rating as label
+
+# TASKS TO BE PERFORMED
+### Data Acquisition
+- Data acquisition of the MovieLens dataset, including:
+  - Users dataset
+  - Rating dataset
+  - Movies dataset
+
+### Exploratory Data Analysis (EDA) for Users Dataset
+- Visualize user age distribution
+- Visualize overall rating by users
+- Visualize overall rating by gender
+- Find and visualize the user rating of the movie “Toy Story”
+- Find and visualize the viewership of the movie “Toy Story” by age group
+- Find and visualize the top 25 movies by viewership rating
+- Find the rating for a particular user with user id = 2696
+  - Visualize the rating data for user id = 2696
+
+### Machine Learning on First 500 Extracted Records
+- Perform machine learning on the first 500 extracted records
+- Use the following features:
+  - Movie ID
+  - Age
+  - Occupation
+- Use rating as the label
+
+### Train and Test Data Preparation
+- Create train and test datasets and perform the following:
+  - Create a histogram for movie, age, and occupation
+
+# RESULTS
 <table>
   <tr>
     <td>Distribution of users by Age Group</td>
@@ -188,5 +187,3 @@ Tasks to Be Performed
     <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/7.png" width=500 height=450></td>
   </tr>
  </table>
-
-
