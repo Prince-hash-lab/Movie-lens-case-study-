@@ -157,7 +157,7 @@ entries and/or test entries
     <td>User Rating of Movie Toy Story</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/8.png" width=650 height=450></td>
+    <td><img src="https://github.com/Prince-hash-lab/Movie-lens-case-study-/blob/main/images/8.png" width=650 height=650></td>
   </tr>
  </table>
 
